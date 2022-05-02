@@ -51,8 +51,8 @@
     "site_lang": "en",
     "imageResize": true,
     "chatbutton": {},
-    "favicon": "@PROJECT_PATH@/assets/images/-removebg-preview-128x158.png",
-    "mbrsiteDomain": "w9p68x0pmi",
+    "favicon": false,
+    "mbrsiteDomain": "5ohaxm1xgv",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -76,7 +76,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/268965868_4708108612603537_8550833440408313866_n-1-960x638.jpg"
       },
       "components": [
         {
